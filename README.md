@@ -1,6 +1,6 @@
 # Hola, soy Luis Hernandez 💡
 
-**Construyendo herramientas de backend y automatización — primeros proyectos en camino 🚧**
+**Backend & Automatización | Arquitecturas de licenciamiento y seguridad — ver [guardian-license](https://github.com/Luiseh77/guardian-license)**
 
 ---
 
